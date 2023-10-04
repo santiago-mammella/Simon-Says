@@ -1,0 +1,26 @@
+.squares-container{
+  height: 500px;
+}
+#square-0{
+  background-color: red;
+}
+#square-1{
+  background-color: blue;
+}
+#square-2{
+  background-color: yellow;
+}
+#square-3{
+  background-color: green;
+}
+.row div {
+  height: 200px;
+  margin: 5px;
+}
+.square{
+  transition: 0.5s;
+  opacity: 0.2;
+}
+.active{
+  opacity: 1;
+}
