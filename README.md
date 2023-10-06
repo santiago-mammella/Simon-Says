@@ -2,7 +2,7 @@
 
 This app is a recreation of the funny game Simon Says
 
-#### Click here 👉🏻 [Demo](simon-says-eosin.vercel.app)
+#### Click here 👉🏻 [Demo](https://simon-says-eosin.vercel.app/)
 
 ## 🤲🏻 Feedback
 
